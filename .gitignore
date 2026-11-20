@@ -1,0 +1,19 @@
+# AScript 同步缓存
+.vscode/.ascript-sync.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志与临时文件
+*.log
+_s*.png
+_ui*.xml
